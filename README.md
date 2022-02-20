@@ -34,24 +34,24 @@ $ python3 ./sf.py -l 127.0.0.1:5001
 
 1- Go to 127.0.0.1:5001 and click on New Scan
 
-![spiderfoot1](spiderfoot1.jpg)
+![spiderfoot1](images/spiderfoot1.jpg)
 
 2- Go to By Module and search Email Discover. Click to check
 
-![spiderfoot2](spiderfoot2.jpg)
+![spiderfoot2](images/spiderfoot2.jpg)
 
 3- Finally, go to Run Scan Now and wait to load data.
 
-![spiderfoot3](spiderfoot3.jpg)
+![spiderfoot3](images/spiderfoot3.jpg)
 
 
 # Test
 
-![spiderfoot4](spiderfoot4.jpg)
+![spiderfoot4](images/spiderfoot4.jpg)
 
-![spiderfoot5](spiderfoot5.jpg)
+![spiderfoot5](images/spiderfoot5.jpg)
 
-![spiderfoot6](spiderfoot6.jpg)
+![spiderfoot6](images/spiderfoot6.jpg)
 
 
 
